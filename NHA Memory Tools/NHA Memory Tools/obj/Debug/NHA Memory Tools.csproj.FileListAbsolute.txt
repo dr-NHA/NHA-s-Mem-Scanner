@@ -1,0 +1,15 @@
+C:\Users\Anonamous\source\repos\NHA Memory Tools\NHA Memory Tools\obj\Debug\NHA Memory Tools.csprojAssemblyReference.cache
+C:\Users\Anonamous\source\repos\NHA Memory Tools\NHA Memory Tools\obj\Debug\NHA_Memory_Tools.NHA_ProcessFinder.NHA_ProcessFinder.resources
+C:\Users\Anonamous\source\repos\NHA Memory Tools\NHA Memory Tools\obj\Debug\NHA_Memory_Tools.NHA_ProcessFinder.ProcessListItem.resources
+C:\Users\Anonamous\source\repos\NHA Memory Tools\NHA Memory Tools\obj\Debug\NHA_Memory_Tools.Properties.Resources.resources
+C:\Users\Anonamous\source\repos\NHA Memory Tools\NHA Memory Tools\obj\Debug\NHA Memory Tools.csproj.GenerateResource.cache
+C:\Users\Anonamous\source\repos\NHA Memory Tools\NHA Memory Tools\obj\Debug\NHA Memory Tools.csproj.CoreCompileInputs.cache
+C:\Users\Anonamous\source\repos\NHA Memory Tools\NHA Memory Tools\bin\Debug\NHA Memory Tools.exe.config
+C:\Users\Anonamous\source\repos\NHA Memory Tools\NHA Memory Tools\bin\Debug\NHA Memory Tools.exe
+C:\Users\Anonamous\source\repos\NHA Memory Tools\NHA Memory Tools\bin\Debug\NHA Memory Tools.pdb
+C:\Users\Anonamous\source\repos\NHA Memory Tools\NHA Memory Tools\obj\Debug\NHA Memory Tools.exe
+C:\Users\Anonamous\source\repos\NHA Memory Tools\NHA Memory Tools\obj\Debug\NHA Memory Tools.pdb
+C:\Users\Anonamous\source\repos\NHA Memory Tools\NHA Memory Tools\obj\Debug\NHA_Memory_Tools.NHA_MainForm.NHA_AddressList.resources
+C:\Users\Anonamous\source\repos\NHA Memory Tools\NHA Memory Tools\obj\Debug\NHA_Memory_Tools.NHA_MainForm.NHA_AddressListItem.resources
+C:\Users\Anonamous\source\repos\NHA Memory Tools\NHA Memory Tools\obj\Debug\NHA_Memory_Tools.NHA_MainForm.NHA_File.resources
+C:\Users\Anonamous\source\repos\NHA Memory Tools\NHA Memory Tools\obj\Debug\NHA_Memory_Tools.NHA_MainForm.NHA_MemoryMain.resources
